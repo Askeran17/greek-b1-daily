@@ -1,0 +1,5 @@
+{
+  "name": "Greek B1 Daily",
+  "description": "A daily interactive quiz application for learning Greek at the B1 level. Generates 7 new questions every day using AI.",
+  "requestFramePermissions": []
+}
